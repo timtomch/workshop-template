@@ -1,2 +1,3 @@
-nose
 PyYAML
+beautifulsoup4
+git_root
